@@ -15,14 +15,26 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="HelloWorld.cppm">
-      <Filter>리소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="HeaderUnit.h">
       <Filter>헤더 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Enum.cppm">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="HelloWorld.cppm">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
     <ClCompile Include="Main.cpp">
-      <Filter>리소스 파일</Filter>
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="SpaceShipOperator.cppm">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Array.cppm">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Vector.cppm">
+      <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
